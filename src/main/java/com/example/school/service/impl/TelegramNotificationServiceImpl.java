@@ -15,7 +15,7 @@ public class TelegramNotificationServiceImpl implements TelegramNotificationServ
     private final String TELEGRAM_API_BASE = "https://api.telegram.org/bot";
 
    // private final String telegramApiUrl = "https://api.telegram.org/bot" + botToken;
-    private final String botTokens = "7450312892:AAHMdIQc8eCq5yFwyF-t2G5d7rpDfCMyx7Q";
+    private final String botTokens = "";
     private final String telegramApiUrl = "https://api.telegram.org/bot" + botTokens;
 
 
